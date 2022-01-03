@@ -1,48 +1,86 @@
 body{background-color: pink;
   border: 1px solid white
+    font-family: Arial, Times New Roman, Georgia
   
 }
 img {
   width: 300px;
 }
-h3{color: purple;
-  font-size: 17px;
-  font-family: Palatino, Arial, sans-serif;
-}
-p{color: gray;
-  font-size: 13px;
-  font-family: Palatino, Arial, sans-serif;
- 
-}
-li{color: white;
-font-size: 15px;
-  font-family: Palatino, Arial, sans-serif;
-}
-h1{color: purple;
-  font-size: 28px;
-  font-family: palatino, Arial, sans-serif;
- 
-}
-h4{color: purple;
-  font-size: 12px;
-  font-family: Palatino, Arial, sans-serif;
- 
-}
-h6{color: white;
-  font-size: 10px;
-  font-family: Palatino, Arial, sans-serif;
-}
-h5{color: gray;
-  font-size: 10px;
-  font-family: Palatino, Arial, sans-serif;
+
+.header {color: purple;
+  margin: 45px;
+  border-top: 1px solid white; 
+  border-bottom: 1px solid white; 
+
 }
 
-.photo{border-top: 5px white;
-  border-bottom: 5px white;
-   
-    
+.caption {color: white;
+  margin: 45px; 
 }
 
-
-.footer{background-color: ;
+.profile {color: purple;
+  margin: 45px;
+  border-top: 1px solid white; 
+  border-bottom: 1px solid white; 
 }
+
+.profiletext {color: white;
+  margin: 45px;
+  
+}
+
+.work {color: purple;
+  margin: 45px;
+  border-top: 1px solid white; 
+  border-bottom: 1px solid white; 
+  }
+
+.resume {color: white;
+  margin: 45px;
+  border-bottom: 1px solid white; 
+}
+
+.images {color: white;
+  margin: 45px;
+}
+
+.creative {color: purple;
+  margin: 45px;
+  border-top: 1px solid white; 
+  border-bottom: 1px solid white; 
+}
+
+.content {color: white;
+  margin: 45px;
+  
+  border-bottom: 1px solid white; 
+}
+
+.photo {color: purple;
+  margin: 45px;
+  border-top: 1px solid white; 
+  border-bottom: 1px solid white; 
+  }
+
+.culinary {color: white;
+  margin: 45px;}
+  
+.education {color: white;
+  margin: 45px;}
+  
+.skill {color: purple;
+  margin: 45px;
+border-top: 1px solid white; 
+  border-bottom: 1px solid white; 
+}
+  
+.list {
+  color: white;
+  margin: 1px;
+  
+}
+  
+.footer {color: purple;
+  margin: 45px;
+border-top: 1px solid white; 
+  border-bottom: 1px solid white; }
