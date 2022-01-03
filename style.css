@@ -1,0 +1,48 @@
+body{background-color: pink;
+  border: 1px solid white
+  
+}
+img {
+  width: 300px;
+}
+h3{color: purple;
+  font-size: 17px;
+  font-family: Palatino, Arial, sans-serif;
+}
+p{color: gray;
+  font-size: 13px;
+  font-family: Palatino, Arial, sans-serif;
+ 
+}
+li{color: white;
+font-size: 15px;
+  font-family: Palatino, Arial, sans-serif;
+}
+h1{color: purple;
+  font-size: 28px;
+  font-family: palatino, Arial, sans-serif;
+ 
+}
+h4{color: purple;
+  font-size: 12px;
+  font-family: Palatino, Arial, sans-serif;
+ 
+}
+h6{color: white;
+  font-size: 10px;
+  font-family: Palatino, Arial, sans-serif;
+}
+h5{color: gray;
+  font-size: 10px;
+  font-family: Palatino, Arial, sans-serif;
+}
+
+.photo{border-top: 5px white;
+  border-bottom: 5px white;
+   
+    
+}
+
+
+.footer{background-color: ;
+}
