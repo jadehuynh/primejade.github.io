@@ -4,7 +4,7 @@ body{background-color: pink;
   
 }
 img {
-  width: 300px;
+  width: 600px;
 }
 
 .header {color: purple;
@@ -65,8 +65,12 @@ img {
 .culinary {color: white;
   margin: 45px;}
   
-.education {color: white;
-  margin: 45px;}
+.photo {color: white;
+  margin: 45px;
+}
+
+.education {color: white; 
+}
   
 .skill {color: purple;
   margin: 45px;
